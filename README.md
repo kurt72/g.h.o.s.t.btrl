@@ -1,7 +1,7 @@
 g.h.o.s.t.btrl
 ==============
 
-ghost host operating system toolkit beyond the red line
+ghost home operating system toolkit beyond the red line
 
 Todo:
 
@@ -9,7 +9,7 @@ Todo:
 
 * fork u-boot into
 
-* del all archs without i686/arm
+* del all archs without x86/arm
 
 * mkdir comarch: dual-use arch linux / u-boot
 
