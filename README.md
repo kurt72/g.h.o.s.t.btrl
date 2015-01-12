@@ -1,20 +1,20 @@
 g.h.o.s.t.btrl
 ==============
 
-ghost home operating system toolkit beyond the red line
+ghost home operating system toolkit - beyond the red line
 
 Todo:
 
-* fork linux kernel into
+* fork linux kernel 3.14 ... 3.18
 
-* fork u-boot into
+* fork u-boot 2014.10
 
-* del all archs without x86/arm
+* use only archs x86/arm (32bit)
 
-* mkdir comarch: dual-use arch linux / u-boot
+* dual-use arch : linux and u-boot
 
-* mkdir comdrv : dual-use driver linux / u-boot
+* dual-use driver : linux and u-boot
 
-* merge / change: config, docs, ...
+* merge / change: ...
 
 ... next stage ...
