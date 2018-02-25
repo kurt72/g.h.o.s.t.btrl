@@ -5,9 +5,9 @@ ghost home operating system toolkit - beyond the red line
 
 Todo:
 
-* fork linux kernel
+* linux kernel
 
-* fork u-boot
+* u-boot (arm)
 
 * use only archs x86/arm (32bit)
 
