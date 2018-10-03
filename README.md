@@ -5,7 +5,7 @@ ghost home operating system toolkit - beyond the red line
 
 Todo:
 
-* linux kernel
+* linux kernel + l4 ?
 
 * u-boot (arm)
 
